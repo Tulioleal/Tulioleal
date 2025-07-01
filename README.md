@@ -14,3 +14,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there, I'm Tulioleal 👋
+
+<!-- ![Profile Banner](https://i.imgur.com/your-banner.png) -->
+
+## 🚀 About Me
+*Passionate developer, lifelong self taught human, ex [ClimateScience](https://climatescience.org/) colaborator.*
+
+- 🌱 I’m currently learning **React native** and **AI technologies**
+- 👯 Looking for non profit organizations to colaborate
+- 💬 Ask me about **Typescript, webdev, or your favorite Pokemon**
+- 🏡 Based in: **Buenos Aires, Argentina**
+
+## 🛠️ Languages & Tools
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![SASS](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tulioleal&layout=compact)](https://github.com/Tulioleal)
+
+## 📌 Last Projects
+- [**CoolProject1**](https://github.com/Tulioleal/CoolProject1): Short description.
+- [**AnotherRepo**](https://github.com/Tulioleal/AnotherRepo): Short description here.
+
+## 📫 Let’s Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tulioleal)
+[![Personal Site](https://img.shields.io/badge/Website-grey?style=flat&logo=google-chrome)](https://tulioleal.info/en)
+
+---
+
+> "The only way to do great work is to love what you do." – Steve Jobs
