@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Tulioleal/Tulioleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,10 +26,10 @@ Here are some ideas to get you started:
 - 🏡 Based in: **Buenos Aires, Argentina**
 
 ## 🛠️ Languages & Tools
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![SASS](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,8 +38,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tulioleal&layout=compact)](https://github.com/Tulioleal)
 
 ## 📌 Last Projects
-- [**CoolProject1**](https://github.com/Tulioleal/CoolProject1): Short description.
-- [**AnotherRepo**](https://github.com/Tulioleal/AnotherRepo): Short description here.
+- [**Splitter**](https://github.com/Tulioleal/splitter2.0): Simple app to split Tabs.
 
 ## 📫 Let’s Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tulioleal)
@@ -49,4 +46,4 @@ Here are some ideas to get you started:
 
 ---
 
-> "The only way to do great work is to love what you do." – Steve Jobs
+> "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." – Antoine de Saint-Exupéry
