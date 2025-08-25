@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## 🚀 About Me
 *Passionate developer, lifelong self taught human, ex [ClimateScience](https://climatescience.org/) colaborator.*
 
-- 🌱 I’m currently learning **AI technologies**
+- 🌱 I’m currently learning some **AI stuff**
 - 👯 Looking for non profit organizations to colaborate
 - 💬 Ask me about **Typescript, webdev, or your favorite Pokemon**
 - 🏡 Based in: **Buenos Aires, Argentina**
