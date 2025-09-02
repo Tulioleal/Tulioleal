@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- ![Profile Banner](https://i.imgur.com/your-banner.png) -->
 
 ## 🚀 About Me
-*Passionate developer, lifelong self taught human, ex [ClimateScience](https://climatescience.org/) colaborator.*
+*Passionate developer, lifelong self taught human, former [ClimateScience](https://climatescience.org/) colaborator.*
 
 - 🌱 I’m currently learning some **AI stuff**
 - 👯 Looking for non profit organizations to colaborate
