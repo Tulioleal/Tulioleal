@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 *Passionate developer, lifelong self taught human, former [ClimateScience](https://climatescience.org/) colaborator.*
 
 - 🌱 I’m currently learning some **AI stuff**
-- 👯 Looking for non profit organizations to colaborate
-- 💬 Ask me about **Typescript, webdev, or your favorite Pokemon**
+- 👯 Looking for non profit organizations to colaborate with
 - 🏡 Based in: **Buenos Aires, Argentina**
 
 ## 🛠️ Languages & Tools
